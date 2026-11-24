@@ -100,7 +100,7 @@ There are 28 lectures in the course. Use the lecture folders below to access eac
 | [Lecture 27](Lectures/Lecture-27/) | Project Preparation |
 | [Lecture 28](Lectures/Lecture-28/) | Final Review and Course Project |
 
-//"*Note: These are suggested roadmap labels. Replace them with the exact titles of your lecture materials if your final lecture sequence differs.*"//
+//"*Note: These are suggested roadmap labels. Replace them with the exact titles of my lecture materials if my final lecture sequence differs.*"//
 
 ## What Each Lecture May Include
 
