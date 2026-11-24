@@ -239,11 +239,7 @@ If you find an error or want to suggest an improvement:
 
 Please keep contributions beginner-friendly, accurate, and relevant to the course.
 
-## License
 
-Choose and add a license before allowing others to reuse or redistribute the course materials. For example, you may consider the [MIT License](https://opensource.org/license/mit/) for code or a Creative Commons license for educational content. Make sure you have the rights to license all included materials.
-
----
 
 <div align="center">
 
