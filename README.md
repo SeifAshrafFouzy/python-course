@@ -19,7 +19,7 @@ A beginner-friendly learning repository containing lecture materials, presentati
 
 
 Welcome to the **[[Python Programming Course]([link on youtube](https://www.youtube.com/playlist?list=PLUlMN3WSwht0))]**!
-([https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white](https://www.youtube.com/playlist?list=PLUlMN3WSwht0))]
+
 This course is designed for learners who want to start programming from the very beginning. It introduces computer and programming fundamentals before gradually moving into Python syntax, core programming concepts, problem-solving, and practical application development.
 
 You do not need previous programming experience. Follow the lectures in order, practice the examples, complete the exercises, and build your own projects as you progress.
