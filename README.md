@@ -71,7 +71,7 @@ There are 28 lectures in the course. Use the lecture folders below to access eac
 
 | Lecture | Topic / Materials |
 |---|---|
-| [Lecture 01](Lecture-1/) | Introduction to Programming |
+| [Lecture 01](Lectures/Lecture-01/) | Introduction to Programming |
 | [Lecture 02](Lectures/Lecture-02/) | Introduction to Python |
 | [Lecture 03](Lectures/Lecture-03/) | Python Environment and First Program |
 | [Lecture 04](Lectures/Lecture-04/) | Python Syntax and Basic Concepts |
